@@ -1,0 +1,84 @@
+sOULLESS
+--------
+
+
+
+Story
+-----
+Cursed for all time for rebeling against a tyrant ruler.
+rizek is imprisoned in a tomb to spend etternity, his human soul taken and sealed in a soul container.
+His form distorted into a demon.
+After a thousand years a great earthquake has cracked the seal and rizek can finaly escape.
+He must find the 12 spirit stones and place them beneath the soul container to release his soul so he
+can become human again and finally be free.
+
+what todo
+---------
+
+The player must search the tomb and temple above and find the 12 spirit stones.
+They must be placed in the correct order beneath the soul containter to release the soul.
+When collected the stones appear on your panel to the right, five are displayed at once, the player can press
+space then scroll left/right through all 12 stones, the centre one will be brighter showing this is the one selected.
+To place a stone the player walks upto a space on the wall and presses up, then he selects a stone and presses fire.
+The stone will then be placed.
+If the player wishes to see the stones anytime he likes he can press space and scroll through, pressing space again goes back to game mode.
+Clues to the correct order will be scattered in diferent rooms - the player must write these down as he goes.
+Pieces can be placed and then recollected.
+
+for eg - if "A" stone neads to be placed in fourth place the clue will be 
+***A************   *=a blank block.
+
+Others to collect - 
+door keys - opens doors/walls automaticaly
+health  - collected and used automaticaly from seached object
+Amulet of stone - makes player invincible for x amount of time. - - collected and used automaticaly from seached object ( change players green to gray or flash through different colours ).
+
+
+
+Ending
+------
+
+Once all 12 pieces are in place the spirit will be released/the player will transform into his human form and raise an arm in triumph.
+
+
+
+controls
+--------
+
+left/right - left/right
+up - search
+down - duck
+fire - jump
+space - access spirit stones / space again to return to game / fire - place spirit stone
+
+
+sprites list
+------------
+player
+player human form - when spirit is free the player turns to human
+spirit container - set free spirit to complete game
+troll - left/right  - moves faster when facing player
+bird - left/right - up/down
+stone block - up/down
+spider - left/right
+explosion - player death/ player transform into human/ fireballs hit walls or player
+snake left/right
+ghost - home in on player - also players spirit at end ( change colour to blue )
+electrifing skull - random movement - get near and will electricute player
+save position - stand over to save position
+wall statue - stuck on side of wall
+wall statue - fireballs
+spinning spikes - left/right
+key - collect to open doors/walls
+fly - random movement
+homing stone face - homes in on players position slowly
+
+panel
+-----
+
+lives on left 
+health sphere - 3 hits
+score in middle
+spirit stones on right
+
+
